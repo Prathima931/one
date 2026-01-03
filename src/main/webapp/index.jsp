@@ -162,7 +162,7 @@
             top: -6px;
             right: -6px;
             background: var(--accent);
-            color: white;
+            color: green;
             font-size: 11px;
             font-weight: 700;
             width: 20px;
@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Summer Collection of 2026</h1>
+                <h1>Summer Collection of 2028</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
@@ -733,7 +733,7 @@
             },
             {
                 id: 'clothing',
-                name: 'Clothing',
+                name: 'Clothes',
                 icon: 'fa-tshirt'
             },
             {
